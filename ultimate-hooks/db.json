@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "Custom hooks are great"
+    },
+    {
+      "id": 2,
+      "content": "Full Stack Open is awesome"
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-4323234"
+    },
+    {
+      "id": 2,
+      "name": "Arshia Nekoonam",
+      "number": "0912-3456789"
+    }
+  ]
+}
